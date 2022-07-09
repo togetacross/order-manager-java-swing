@@ -1,0 +1,12 @@
+Dear ${NAME}!
+
+On ${DATE} we added the following services with #${ORDERID}.
+
+${ITEMS}
+
+Total Price: ${TOTALPRICE}.
+The services do not include the cost of materials!
+
+Best Regards:
+
+${MYCOMPANY}
